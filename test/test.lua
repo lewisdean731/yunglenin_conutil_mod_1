@@ -6,7 +6,7 @@ local yl_conutil = require "res.scripts.ul_conutil"
 
 Tests = {}
 
-function Tests:test_cconutil()
+function Tests:test_conutil()
 
 end
 
